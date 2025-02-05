@@ -900,7 +900,7 @@ Set to Disabled to: Don't show the Modern Viewer
 Set to Enabled to: Show the Modern Viewer
      </string>
 
-      <string id="bEnableGentech">Disable Generative AI</string>
+      <string id="bEnableGentech">Enable Generative AI</string>
       <string id="bEnableGentech_Help">
 Set to Enabled to enable the Generative AI feature in Acrobat
 Set to Disabled to disable the Generative AI feature in Acrobat
